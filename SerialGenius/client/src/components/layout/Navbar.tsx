@@ -89,7 +89,6 @@ export function Navbar({ onAddOrder }: NavbarProps) {
             
             <div className="sm:hidden">
               <Badge variant={user?.role === 'Admin' ? 'default' : 'secondary'} className="text-xs">
-                {user?.role}
               </Badge>
             </div>
             
