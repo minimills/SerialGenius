@@ -74,7 +74,7 @@ export function LoginModal() {
             </Button>
           </form>
           
-          <div className="mt-6 pt-6 border-t border-slate-200">
+{/*           <div className="mt-6 pt-6 border-t border-slate-200">
             <div className="text-sm text-slate-600 text-center space-y-2">
               <p>Demo Credentials:</p>
               <div className="flex justify-between text-xs">
@@ -82,7 +82,7 @@ export function LoginModal() {
                 <span>Tech: tech / tech123</span>
               </div>
             </div>
-          </div>
+          </div> */}
         </CardContent>
       </Card>
     </div>
